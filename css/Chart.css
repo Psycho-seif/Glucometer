@@ -1,0 +1,12 @@
+canvas {
+	display: block;
+	margin: 20px auto;
+	max-width: 100%;
+	height: auto;
+  }
+  .diagnosis {
+	margin: 20px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	display: none;
+  }
