@@ -136,7 +136,7 @@ function updateCrustrolChart(newReading) {
       data: {
         labels: Array.from({ length: 10 }, (_, i) => i + 1),
         datasets: [{
-          label: 'Crustrol Severity (mg/dL)',
+          label: 'Cholesterol Severity (mg/dL)',
           borderColor: 'rgb(255, 99, 132)',
           backgroundColor: 'rgba(255, 99, 132, 0.2)',
           borderWidth: 2,
